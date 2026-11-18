@@ -54,5 +54,9 @@ IBM Telco Customer Churn dataset.
 - PowerBI – Interactive dashboard
 - images – Dashboard screenshots
 
+- ## Dashboard Preview
+
+![Customer Churn Dashboard](images/dashboard.png)
+
 ## Conclusion
 The analysis highlights significant differences in churn across customer segments. These findings can help businesses identify customers who may require additional retention efforts.
