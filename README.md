@@ -52,7 +52,7 @@ IBM Telco Customer Churn dataset.
 - SQL – Business analysis queries
 - Python – Exploratory data analysis and visualisations
 - PowerBI – Interactive dashboard
-- Images – Dashboard screenshots
+- images – Dashboard screenshots
 
 ## Conclusion
 The analysis highlights significant differences in churn across customer segments. These findings can help businesses identify customers who may require additional retention efforts.
